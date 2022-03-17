@@ -1,0 +1,5 @@
+{
+
+                "ip":"JSS1.aternos.me",
+                "port": "44917",
+                "name": "Gadha"
